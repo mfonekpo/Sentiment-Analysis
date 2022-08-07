@@ -11,3 +11,4 @@ Looking at this Repo, you will see two ipynb files namely ***"review_scrapedfile
 
 
 #### I hope you find this project insightful?...
+![Frame 1Doctor strange in the multiverse of madness dashboard](https://user-images.githubusercontent.com/58835748/183310207-081e0e0d-b8cc-44a1-b679-4a50ab1c3b55.svg)
