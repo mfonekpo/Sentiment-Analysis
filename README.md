@@ -5,9 +5,7 @@ Have you ever seen a movie so bad or so great that you wondered what others felt
 ### Data Source:
 Looking at this Repo, you will see two ipynb files namely ***"review_scrapedfile"*** and ***"Sentiment-analysis.ipynb"***. looking at the reviewscrapedfile, the reviews which were used for this analysis were scraped off of Imdb's website with this link https://www.imdb.com/title/tt9419884/reviews?sort=helpfulnessScore&dir=desc&ratingFilter=0. The Analysis were carried out in the second ipynb file. 
 
-![Frame 1Doctor strange in the multiverse of madness dashboard](https://user-images.githubusercontent.com/58835748/183310251-1cdb6742-4c48-451e-b507-5bb89aa95b7e.png)
-
-
 
 #### I hope you find this project insightful?...
-![Frame 1Doctor strange in the multiverse of madness dashboard](https://user-images.githubusercontent.com/58835748/183310207-081e0e0d-b8cc-44a1-b679-4a50ab1c3b55.svg)
+
+![Frame 1Doctor strange in the multiverse of madness dashboard](https://user-images.githubusercontent.com/58835748/183310287-bcb7d8b3-b966-4425-b95e-1e2e2419e0ce.png)
